@@ -1,0 +1,5 @@
+classes = 13
+train = data/220823_train.txt
+valid = data/220823_val.txt
+names = data/obj_13.names
+backup = backup/220823_train_backup
